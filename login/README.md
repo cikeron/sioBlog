@@ -1,3 +1,6 @@
+Modificated!!!!
+
+Original:
 # A PHP login script (ONE-FILE VERSION)
 
 A simple, but secure PHP login script in one file and a flat-file SQLite database.
